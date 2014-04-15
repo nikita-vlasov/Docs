@@ -1,10 +1,5 @@
 # iOS-Docs
 
-## Содержание
-* [Работа с сетью](#Работа с сетью)
-
----
-
 ### Работа с сетью
 ###### [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
