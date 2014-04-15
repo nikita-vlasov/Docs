@@ -58,7 +58,7 @@
 ---
 ###### [FacebookSDK](https://github.com/facebook/facebook-ios-sdk)
 
-> This open-source library allows you to integrate Facebook into your iOS app.
+> Эта библиотека с открытым исходным кодом позволяет интегрировать Facebook в веб-приложения IOS.
 
 ###### [VKSDK](https://github.com/VKCOM/vk-ios-sdk)
 
