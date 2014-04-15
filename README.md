@@ -12,7 +12,9 @@
 
 > Эти UIScrollview категории делает его очень легко добавить выдвижной для-обновления и бесконечных прокрутки fonctionalities к любому UIScrollView (или любого из его подкласса). Вместо того чтобы полагаться на делегатов и / или подклассов UIViewController.
 
+###### [ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl)
 
+> ODRefreshControl является "снести, чтобы обновить" контроль за UIScrollView, как тот, Apple, введенной в iOS6, но доступны для всех, от iOS4 и выше.
 
 ## Работа с сетью
 ---
