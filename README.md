@@ -15,3 +15,7 @@
 ###### [BlockRSSParser](https://github.com/tibo/BlockRSSParser)
 
 > Простой в использовании RSS парсер.
+
+###### [MWFeedParser](https://github.com/mwaterfall/MWFeedParser)
+
+> MWFeedParser является база Objective-C для загрузки и разбора RSS (1. * И 2. *) И Atom веб-новости. Это очень простой и и быстрый парсер.
