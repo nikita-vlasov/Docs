@@ -25,3 +25,7 @@
 ###### [FacebookSDK](https://github.com/facebook/facebook-ios-sdk)
 
 > This open-source library allows you to integrate Facebook into your iOS app.
+
+###### [VKSDK](https://github.com/VKCOM/vk-ios-sdk)
+
+> Библиотека для работы с ВКонтакте API, авторизации через В.К. приложение, с помощью функции ВКонтакте. Поддерживаемые IOS от 5,0.
