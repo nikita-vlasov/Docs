@@ -19,3 +19,9 @@
 ###### [MWFeedParser](https://github.com/mwaterfall/MWFeedParser)
 
 > MWFeedParser является база Objective-C для загрузки и разбора RSS (1. * И 2. *) И Atom веб-новости. Это очень простой и и быстрый парсер.
+
+## SDK
+---
+###### [FacebookSDK](https://github.com/facebook/facebook-ios-sdk)
+
+> This open-source library allows you to integrate Facebook into your iOS app.
