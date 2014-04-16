@@ -40,6 +40,10 @@
 
 > Эта библиотека предоставляет альтернативу родной IOS UIPopoverController, добавив поддержку для Iphone и дополнительных возможностей для настройки внешнего вида в Popovers.
 
+###### [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView)
+
+> Замена UIAlertView с синтаксисе кадра и причудливых стилей перехода.
+
 
 ## Работа с сетью
 ---
