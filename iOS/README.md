@@ -44,6 +44,11 @@
 
 > Замена UIAlertView с синтаксисе кадра и причудливых стилей перехода.
 
+###### [LMAlertView](https://github.com/lmcd/LMAlertView)
+
+> LMAlertView стремится быть из конца в конец, настраиваемый клон UIAlertView для МО 7. Идентичные мороз / Gaussian эффект размытия, цвета, CALayer анимации.
+
+
 
 ## Работа с сетью
 ---
