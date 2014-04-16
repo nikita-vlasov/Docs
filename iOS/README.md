@@ -46,7 +46,7 @@
 
 ###### [LMAlertView](https://github.com/lmcd/LMAlertView)
 
-> LMAlertView стремится быть из конца в конец, настраиваемый клон UIAlertView для МО 7. Идентичные мороз / Gaussian эффект размытия, цвета, CALayer анимации.
+> LMAlertView стремится быть из конца в конец, настраиваемый клон UIAlertView для iOS 7. Идентичные мороз / Gaussian эффект размытия, цвета, CALayer анимации.
 
 
 
