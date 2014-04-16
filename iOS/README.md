@@ -75,15 +75,15 @@
 
 ## SDK
 ---
-###### [FacebookSDK](https://github.com/facebook/facebook-ios-sdk)
+###### [FacebookSDK](https://github.com/facebook/facebook-ios-sdk) `free`
 
 > Эта библиотека с открытым исходным кодом позволяет интегрировать Facebook в веб-приложения IOS.
 
-###### [VKSDK](https://github.com/VKCOM/vk-ios-sdk)
+###### [VKSDK](https://github.com/VKCOM/vk-ios-sdk) `free`
 
 > Библиотека для работы с ВКонтакте API, авторизации через В.К. приложение, с помощью функции ВКонтакте. Поддерживаемые IOS от 5.0.
 
-###### [ZBarSDK](https://github.com/markdarling/ZBar-SDK-iOS)
+###### [ZBarSDK](https://github.com/markdarling/ZBar-SDK-iOS) `free`
 
 > Zbar считывания штрих-кода является программный комплекс с открытым исходным кодом для чтения бар коды из различных источников, таких как видео-потоков, файлы изображений и сырье датчики интенсивности. Он поддерживает EAN-13/UPC-A, UPC-E, EAN-8, DataBar, Code 128, Code 93, Code 39, Interleaved 2 из 5 и QR-код. это Объективные обертки C и интегрированная виджет для разработки с Библиотека на iPhone платформы.
 
